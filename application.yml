@@ -1,0 +1,13 @@
+# Sample only. Copy the `plugins:` block into your own Lavalink application.yml.
+plugins:
+  bilibilixlava:
+    engine: enable
+    # sourceName: bilibili
+    # sessdata: ""          # optional SESSDATA cookie value (login) - helps with search / uploader pages
+    # searchLimit: 10
+    # playlistLimit: 100
+    # maxRetries: 3
+
+logging:
+  level:
+    dev.pawan.bilibilixlava: INFO
