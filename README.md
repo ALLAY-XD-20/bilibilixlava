@@ -7,7 +7,7 @@ Lavalink v4 plugin that adds a Bilibili source. Author: **Pawan**
 ```yaml
 lavalink:
   plugins:
-    - dependency: "com.github.<your-github-user>:BilibiliXlava:<TAG>"
+    - dependency: "com.github.ALLAY-XD-20:bilibilixlava:1.0.0"
       repository: "https://jitpack.io"
 ```
 
